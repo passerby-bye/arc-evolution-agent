@@ -6,6 +6,11 @@ Arc-Bench 黑客松决赛（hackathon-evolution）提交的演进 agent，最终
 5 个是新增功能。平台用 Playwright 私有测试评分，每个功能 3 个场景，共 30 个测试。
 agent 要在保留原有功能的前提下完成这 10 个功能，并预置测试场景用到的种子数据。
 
+## 比赛成绩
+
+- 智能体软件工厂黑客松初赛：前 20 名，晋级决赛
+- 决赛（hackathon-evolution）：第 18 名
+
 ## 流程
 
 入口是 `main.py`。
