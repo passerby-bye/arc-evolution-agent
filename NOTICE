@@ -1,0 +1,10 @@
+arc-evolution-agent
+Licensed under the Apache License, Version 2.0 (see LICENSE), except as noted below.
+
+Third-party and template code
+- octos_stdio.py: stdio driver for the Octos agent kernel, taken from the Arc-Bench Octos
+  agent template / octos-arc (https://github.com/octos-org/octos-arc, Apache License 2.0).
+- arcbench_agent_runtime/: runtime helpers shipped with the Arc-Bench agent submission
+  templates. Included unchanged; rights remain with their original authors.
+- The Octos binary is not included. octos_feature.py downloads it at run time from the
+  octos-arc GitHub releases.
